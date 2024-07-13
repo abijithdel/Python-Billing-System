@@ -1,4 +1,4 @@
-## Billing System
+# Billing System
 
 This is a simple billing system application developed using Python's Tkinter library. The application allows users to input item details, calculate the total cost for each item, and maintain a running total of all items added.
 
